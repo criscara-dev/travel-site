@@ -1,8 +1,13 @@
+class Person {
+    constructor(fullName, favColor) {
+        this.name = fullName;
+        this.favoriteColor = favColor;
+    }
 
-function Person (fullName, favColor) {
-    this.name = fullName;
-    this.favoriteColor = favColor;
-    this.greet = function() {
-        console.log('Hello, my name is ' + this.name + ' and my favorite color is ' + this.favoriteColor + '.');
+    greet() {
+        console.log('Hi there, my name is ' + this.name + ' and my favorite color is ' + this.favoriteColor + '.');
     }
 }
+
+// module.exports = Person; module is a Node method
+export default Person;
