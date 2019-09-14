@@ -3,7 +3,7 @@
 
 > This is a website project from the Udemy course - [Git a Web Developer Job: Mastering the Modern Workflow by Brad Schiff](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/)
 
-[![travel-site](/assets/images/travel-site.png?raw=true)](https://criscarart.github.io/travel-site/)
+[![travel-site](/assets/images/travel-site.png)](https://criscarart.github.io/travel-site/)
 
 ## Live Demo
 
