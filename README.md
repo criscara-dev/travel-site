@@ -1,15 +1,15 @@
 # Wep App:
 # travel-site
 
-[![travel-site](/app/assets/images/travel-site.png)](https://criscarart.github.io/travel-site/)
+[![travel-site](/app/assets/images/travel-site.png)](https://criscara-dev.github.io/travel-site/)
 
 ## Live Demo
 
-You can see the website live at: [https://criscarart.github.io/travel-site/](https://criscarart.github.io/travel-site/)
+You can see the website live at: [https://criscara-dev.github.io/travel-site/](https://criscara-dev.github.io/travel-site/)
 
 or
 
-To run the staging site from your own computer, please follow the instructions in [Getting Started](https://github.com/criscarart/travel-site#getting-started)
+To run the staging site from your own computer, please follow the instructions in [Getting Started](https://criscara-dev.github.io/travel-site/#getting-started)
 
 ## Features
 
@@ -40,7 +40,7 @@ To run the staging site from your own computer, please follow the instructions i
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/criscarart/travel-site.git
+git clone https://github.com/criscara-dev/travel-site.git
 ```
 
 ### Install dependencies
